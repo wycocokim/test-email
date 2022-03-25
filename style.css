@@ -124,10 +124,12 @@ h2 {
   font-size: 16px;
   line-height: 110%;
   outline: none;
+
+  cursor: pointer;
   border: none;
 }
 
-.btn.margin-btm {
+.margin-btm {
   margin-bottom: 47px;
 }
 
